@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>High-Performance Athlete Sports Injury Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        main {
+            padding: 2rem;
+            line-height: 1.5;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>High-Performance Athlete Sports Injury Information</h1>
+    </header>
+    <main>
+        <h2>Common Sports Injuries in High-Performance Athletes</h2>
+        <p>High-performance athletes are prone to various types of sports injuries due to the intense physical demands of their training and competitions. Some of the most common sports injuries in high-performance athletes include:</p>
+        <ul>
+            <li>Overuse injuries</li>
+            <li>Concussions</li>
+            <li>Heat injuries</li>
+            <li>Traumatic injuries</li>
+        </ul>
+        <h2>Prevention Tips for High-Performance Athletes</h2>
+        <p>To prevent sports injuries, high-performance athletes should:</p>
+        <ul>
+            <li>Warm up properly before training and competitions</li>
+            <li>Use proper equipment and protective gear</li>
+            <li>Stay hydrated and avoid overexertion</li>
+            <li>Follow a safe and balanced training program</li>
+            <li>Get enough rest and recovery time</li>
+        </ul>
+    </main>
+</body>
+</html>
